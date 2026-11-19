@@ -9,7 +9,7 @@ from transformers import PreTrainedModel
 
 from utils.paths import make_result_name
 
-REPO_NAME = "s4986p/high-low-entropy-quantization"
+REPO_NAME = "sehyunpark73/high-low-entropy-quantization"
 
 
 def upload_file(
